@@ -25,8 +25,8 @@ Launch the utility: <br/>
 <img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_rasterclassification.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a 1km buffer around water features  <br/>
+<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_buffering.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
