@@ -18,7 +18,7 @@ This project consists of using a DEM and water bodies vector files to model habi
 
 - <b>QGIS</b>
 
-<h2>Program walk-through:</h2>
+<h2>Classify raster to separate everthing above 1500m:</h2>
 
 <p align="center">
 Launch the utility: <br/>
