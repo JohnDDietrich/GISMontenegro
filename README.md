@@ -1,6 +1,5 @@
 <h1>Habitat Model Montenegro</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 This project consists of using a DEM and water bodies vector files to model habitat for a theoretical organism occuring in Montenegro.
