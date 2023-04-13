@@ -22,11 +22,11 @@ This project consists of using a DEM and water bodies vector files to model habi
 <p align="center">
 Classify raster to separate everthing above 1500m (shown in green):
 
-<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_rasterclassification.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/Classify.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create a 1km buffer around water features  <br/>
-<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_buffering.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_buffe.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Find intersection between water buffer and 1500+ elevation polygons <br/>
