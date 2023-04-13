@@ -17,9 +17,10 @@ This project consists of using a DEM and water bodies vector files to model habi
 
 - <b>QGIS</b>
 
-<h2>Classify raster to separate everthing above 1500m:</h2>
+<h2>Step by step processing</h2>
 
 <p align="center">
+Classify raster to separate everthing above 1500m (shown in green):
 
 <img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_rasterclassification.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
