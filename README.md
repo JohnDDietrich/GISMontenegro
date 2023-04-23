@@ -26,7 +26,7 @@ Classify raster to separate everthing above 1500m (shown in green):
 <br />
 <br />
 Add in water features  <br/>
-<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/Buffer1.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/buffer1.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create a 1km buffer around water features  <br/>
