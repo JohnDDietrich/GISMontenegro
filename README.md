@@ -26,7 +26,7 @@ Classify raster to separate everthing above 1500m (shown in green):
 <br />
 <br />
 Create a 1km buffer around water features  <br/>
-<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_buffe.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/Buffer2.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Find intersection between water buffer and 1500+ elevation polygons <br/>
