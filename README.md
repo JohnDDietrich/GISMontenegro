@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project consists of using a DEM and water bodies vector files to model habitat for a theoretical organism occuring in Montenegro.
+This project consists of using a DEM and water bodies vector files to model habitat for a hypothetical organism occuring in Montenegro.  This hypothetical organism has habitat requirements that limit its' range to areas above 1500m within 1km of water.
 <br />
 
 
@@ -34,7 +34,7 @@ Create a 1km buffer around water features  <br/>
 <br />
 <br />
 Find intersection between water buffer and 1500+ elevation polygons <br/>
-<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_intersect.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/intersect.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Add in hillshade for visual effect  <br/>
