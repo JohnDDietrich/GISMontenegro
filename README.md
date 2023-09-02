@@ -37,7 +37,7 @@ Find intersection between water buffer and 1500+ elevation polygons <br/>
 <img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/intersect.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add in hillshade for visual effect  <br/>
+Potential habitat is delineated in red. Hillshade added for visual effect  <br/>
 <img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_map.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <!--
